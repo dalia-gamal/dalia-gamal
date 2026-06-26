@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1200&color=E91E8C&center=true&vCenter=true&width=600&lines=Hi+I'm+Dalia+%E2%99%A1;CS+Student+%F0%9F%8E%93;Python+%7C+JavaScript+%7C+Java+%7C+C%2B%2B+%7C+PHP+%F0%9F%92%BB;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Dalia+%F0%9F%8C%B8%E2%99%A1" alt="Typing SVG" />
+
+![](https://komarev.com/ghpvc/?username=dalia-gamal&color=ff69b4&style=flat&label=%F0%9F%8C%B8+visitors)
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=dalia&color=ff69b4&style=flat&label=visitors+%F0%9F%8C%B8)
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=20&pause=1200&color=FF8FAB&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;Python+%7C+JavaScript+%7C+Java+%7C+C%2B%2B+%7C+PHP+%F0%9F%92%BB;Turning+ideas+into+code+%E2%9C%A8;Always+learning+something+new+%F0%9F%8E%80" alt="Typing SVG" />
 
 <br>
 
@@ -63,9 +65,9 @@
 
 ### 🎀 GitHub Stats
 
-![Dalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalia&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&border_color=ff69b4)
+![Dalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalia-gamal&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&border_color=ff69b4&bg_color=fff0f5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalia&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dalia-gamal&layout=compact&theme=radical&title_color=ff69b4&border_color=ff69b4&bg_color=fff0f5)
 
 ---
 
